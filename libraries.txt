@@ -1,0 +1,13 @@
+Open-source libraries used
+
+ButterKnife
+ChatKit
+CircleImageView
+Crashlytics SDK
+Facebook SDK
+Firebase SDK
+GeoFire
+Glide
+Parceler
+ripplebackground
+recyclerview-animators

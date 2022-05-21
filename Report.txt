@@ -1,0 +1,14 @@
+Report
+
+Done the researched and learned the 
+step by step function implemitation with app
+ Find common attributes with the person
+ Mutual friends
+ Similar visited places
+ Link to Instagram and LinkedIn accounts
+ Show people around you on a map
+ On meeting, support sharing contact details via NFC
+ Extending chat to VoIP calls
+ Allow group meetups
+Walkthroughs
+

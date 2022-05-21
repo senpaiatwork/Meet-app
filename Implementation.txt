@@ -1,0 +1,9 @@
+ Implementation
+
+ Setup firebase
+ Error handling (permissions, internet connectivity)
+ Setup automated builds to catch build failures
+ Create scripts to help with testing
+ Add scripts to generate data for random users along with profile pictures
+ Add scripts to clean up/update db entries on changes to the scheme
+ Add scripts to clear data added while testing
